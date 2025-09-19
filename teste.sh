@@ -1,1 +1,2 @@
-teste
+#!/bin/bash
+echo "Ola mundo"
